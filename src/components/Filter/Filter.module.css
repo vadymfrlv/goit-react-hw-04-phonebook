@@ -1,0 +1,30 @@
+.filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.lable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.input {
+  display: flex;
+  font-size: 15px;
+  width: 200px;
+  font-weight: 700;
+  margin-left: 20px;
+  color: #3c3c3c;
+  border: none;
+  height: 25px;
+  border-radius: 4px;
+}
